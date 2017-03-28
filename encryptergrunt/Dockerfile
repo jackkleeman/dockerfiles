@@ -1,5 +1,5 @@
 
-FROM golang:1.7
+FROM golang:1.8
 MAINTAINER Jack Kleeman "jackkleeman@gmail.com"
 
 RUN go get -u github.com/gopherjs/gopherjs
